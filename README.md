@@ -1,3 +1,5 @@
 
-[Submission instructions](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/)
+## PR link for snakes-cafe
+
+[Preview](https://github.com/dialaabulkhail/example-lab/pull/1)
 
